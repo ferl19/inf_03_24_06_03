@@ -1,0 +1,70 @@
+* {
+    font-family: 'Georgia';
+}
+
+#baner-lewy,
+#baner-prawy {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+}
+
+#baner-lewy {
+    float: left;
+}
+
+#baner-prawy {
+    float: right;
+}
+
+#menu {
+    background-color: navy;
+    padding: 20px;
+}
+
+.tekst-opcji {
+    color: silver;
+    margin: 50px;
+}
+
+.tekst-opcji:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+#blok-lewy,
+#blok-prawy {
+    background-color: azure;
+    height: 550px;
+}
+
+#blok-lewy {
+    float: left;
+    width: 70%;
+}
+
+#blok-prawy {
+    float: right;
+    width: 30%;
+}
+
+#stopka {
+    background-color: navy;
+    color: white;
+}
+
+table {
+    border: 1px solid navy;
+    margin: auto;
+    width: 70%;
+}
+
+tr:hover {
+    background-color: skyblue;
+}
+
+#rzeka {
+    width: 90%;
+}
